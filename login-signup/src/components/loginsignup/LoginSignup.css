@@ -1,0 +1,35 @@
+.container{
+    display : flex;
+    flex-direction : column;
+    margin : auto;
+    margin-top:200px;
+    background:#b81717;
+    padding-bottom:30px;
+    position: absolute;
+    width:1210px ;
+    
+
+}
+.header{
+    /* display :flex; */
+    /* flex-direction: cloumn; */
+    align-items: center ;
+    gap: 100%;
+    margin-top: 30px;
+}
+.text{
+    color: #3c009b;
+    font-size:48px;
+    font-weight:700;
+    text-align: center;
+    margin:auto;
+
+}
+.underline{
+    width:80px;
+    height: 6px;
+    background: #3c009b;
+    border-radius: 9px;
+    text-align: center;
+    margin: auto;
+}
